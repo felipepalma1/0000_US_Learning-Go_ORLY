@@ -8,4 +8,5 @@ import (
 func main() {
 	fmt.Println("Learning Go")
 	Examples.Example_02_01_Complex_Numbers()
+	Examples.Example_02_02_Type_Conversions()
 }
